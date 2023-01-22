@@ -1,0 +1,70 @@
+.bgstyle{
+    background-color:black;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+}
+
+.yellowtext{
+    color :#FDC029;
+}
+.pro-img{
+    width:300px;
+    height:300px;
+  
+}
+
+.left-col{
+    padding-left:100px;
+}
+
+.up-col{
+    padding-top:20px;
+}
+
+.top-padding{
+    padding-top:25px;
+}
+
+.vl{
+    border-left: 10px double #FDC029 ;
+    height: 300px;
+}
+
+.hl{
+    border-bottom: 6px solid #FDC029  ;
+    width:200px;
+    padding-left:100px;
+    
+}
+
+.container{
+    background-color: #FDC029;
+    border-radius: 40px;
+    padding: 5px;
+    margin:70px;
+    width:350px;
+    height:300px;
+    color:black;
+}
+
+.hl-pr{
+    border: 10px solid black ;
+    border-radius: 20px;
+    height: 150px;
+}
+
+.mt-50{
+
+    margin-top:50px;
+}
+
+.mt-100{
+
+    margin-top:130px;
+
+}
+
+.about-me{
+
+    height:80vh;
+}
